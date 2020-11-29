@@ -1,1 +1,2 @@
-# 19_pedir_datos_al-_usuario_mostrar_en_pantalla
+/*Ete programa lee los datos de una persona de la librería estándar: edad, sexo, estatura en metros que son datos
+de tipo: entero, caracter y float (tipo real)*/
